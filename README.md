@@ -1,4 +1,4 @@
-# Code Repository for [Characterizing SARS-CoV-2 Transmission Heterogeneity Between Urban and Rural Populations in Texas, USA, Using a Novel Spatial Transmission Count Statistic].
+# Code Repository for "Characterizing SARS-CoV-2 Transmission Heterogeneity Between Urban and Rural Populations in Texas, USA, Using a Novel Spatial Transmission Count Statistic"
 
 This repository contains the code, scripts, and data that support the analyses and findings of our research paper, "[Your Paper Title](https://www.medrxiv.org/content/10.1101/2023.12.28.23300535v4)".
 
