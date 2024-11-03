@@ -6,7 +6,7 @@ This repository contains the code, scripts, and data that support the analyses a
 
 This repository provides the full set of scripts and instructions needed to reproduce the analyses and figures presented in our study. Our research focuses on [brief description of research focus] and offers insights into [main findings or objectives].
 
-[![Graph Abstract](./figures/overview.pdf)]
+[![Graph Abstract](https://github.com/leke-lyu/transmissionCount/blob/main/figures/overview.pdf)]
 
 Included components:
 - **Subsamplerr R package** for proportional sampling
