@@ -4,14 +4,20 @@ This repository contains the code, scripts, and data that support the analyses a
 
 ## Overview
 
-This repository provides the full set of scripts and instructions needed to reproduce the analyses and figures presented in our study. Our research focuses on [brief description of research focus] and offers insights into [main findings or objectives].
-
 ![Graph Abstract](https://github.com/leke-lyu/transmissionCount/blob/main/figures/overview.png)
 
-Included components:
-- **Subsamplerr R package** for proportional sampling
-- Scripts for data preprocessing, analysis, and visualization
-- Guidelines on how to adjust parameters for customized analyses
+- Background
+Viral genomes contain records of geographic movements and cross-scale transmission dynamics. However, the impact of regional heterogeneity, particularly among rural and urban centers, on viral spread and epidemic trajectory has been less explored due to limited data availability. Intensive and widespread efforts to collect and sequence SARS-CoV-2 viral samples have enabled the development of comparative genomic approaches to reconstruct spatial transmission history and understand viral transmission across different scales.
+
+- Methods
+We proposed a novel spatial transmission count statistic that efficiently summarizes the geographic transmission patterns imprinted in viral phylogenies. Guided by a time-scaled tree with ancestral trait states, we identified spatial transmission linkages and categorize them as imports, local transmissions, and exports. These linkages were then summarized to represent the epidemic profile of the focal area.
+
+- Results
+We demonstrated the utility of this approach for near real-time outbreak analysis using over 12,000 full genomes and linked epidemiological data to investigate the spread of the SARS-CoV-2 in Texas. Our study showed (1) highly populated urban centers were the main sources of the epidemic in Texas; (2) the outbreaks in urban centers were connected to the global epidemic; and (3) outbreaks in urban centers were locally maintained, while epidemics in rural areas were driven by repeated introductions.
+
+- Conclusions
+In this study, we introduce the Source Sink Score, which allows us to determine whether a localized outbreak may be the source or sink to other regions, and the Local Import Score, which assesses whether the outbreak has transitioned to local transmission rather than being maintained by continued introductions. These epidemiological statistics provide actionable information for developing public health interventions tailored to the needs of affected areas.
+
 
 ## Data
 
