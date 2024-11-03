@@ -21,13 +21,7 @@ To get started:
 
 ### Subsampling
 
-The **Subsamplerr** package enables proportional genome sampling based on case counts across specified regions. This process is designed to ensure that sampling reflects the spatial heterogeneity of the epidemic, allowing for robust downstream analysis. Guidelines for adjusting parameters to suit different datasets or sampling needs are provided in the scripts.
-Following the approach of [Anderson F.
-Brito](https://www.cell.com/cell/fulltext/S0092-8674(21)00434-7), we
-developed R scripts, later consolidated into an R package. This package
-processes case count tables and genome metadata, enabling visual
-exploration of sampling heterogeneity and the implementation of
-proportional sampling schemes.
+Following the approach of [Anderson F.Brito](https://www.cell.com/cell/fulltext/S0092-8674(21)00434-7), we developed R scripts, later consolidated into an R package - [**Subsamplerr**](https://github.com/leke-lyu/subsamplerr). This package processes case count tables and genome metadata, enabling visual exploration of sampling heterogeneity and the implementation of proportional sampling schemes.
 
 ### Phylogeographic Analysis
 
