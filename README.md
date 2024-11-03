@@ -1,4 +1,4 @@
-# Code Repository for __Characterizing Spatial Epidemiology in a Heterogeneous Transmission Landscape Using a Novel Spatial Transmission Count Statistic__
+# __Characterizing Spatial Epidemiology in a Heterogeneous Transmission Landscape Using a Novel Spatial Transmission Count Statistic__
 
 This repository contains the code, scripts, and data that support the analyses and findings of our research paper, "[Your Paper Title](https://www.medrxiv.org/content/10.1101/2023.12.28.23300535v4)".
 
