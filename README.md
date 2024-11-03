@@ -21,7 +21,7 @@ To get started:
 
 ### Subsampling
 
-Following the approach of [Anderson F.Brito](https://www.cell.com/cell/fulltext/S0092-8674(21)00434-7), we developed R scripts, later consolidated into an R package - [**Subsamplerr**](https://github.com/leke-lyu/subsamplerr). This package processes case count tables and genome metadata, enabling visual exploration of sampling heterogeneity and the implementation of proportional sampling schemes.
+Following the approach of [Anderson F.Brito](https://github.com/andersonbrito/subsampler), we developed R scripts, later consolidated into an R package - [**Subsamplerr**](https://github.com/leke-lyu/subsamplerr). This package processes case count tables and genome metadata, enabling visual exploration of sampling heterogeneity and the implementation of proportional sampling schemes.
 
 ### Phylogeographic Analysis
 
