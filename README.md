@@ -19,11 +19,20 @@ To get started:
 
 ## Analysis and Visualization
 
-The `analysis` folder includes scripts for conducting the following:
-- **Data Analysis**: Scripts for calculating core metrics, including Source Sink Score and Local Import Score.
-- **Phylogenetic Analysis**: Steps for tree generation and related calculations.
-- **Sensitivity Analysis**: Evaluate metric stability across different regions or datasets.
-- **Visualization**: Generate publication-ready figures reflecting the study’s findings.
+### Subsampling
+
+The **Subsamplerr** package enables proportional genome sampling based on case counts across specified regions. This process is designed to ensure that sampling reflects the spatial heterogeneity of the epidemic, allowing for robust downstream analysis. Guidelines for adjusting parameters to suit different datasets or sampling needs are provided in the scripts.
+
+### Phylogeographic Analysis
+
+Our pipeline integrates with the Nextstrain framework to conduct phylogeographic analysis. This step involves reconstructing phylogenetic trees and mapping the geographic spread of lineages over time. We also include options for visualizing lineage migration patterns, highlighting the movement of viral strains between urban and rural areas.
+
+### Transmission Count
+
+The transmission count metric is calculated to identify viral sources and sinks across subregions. This analysis summarizes transmission patterns within the study area, allowing for the comparison of local transmission intensity. The metric aids in distinguishing regions that are likely contributing to viral spread versus those primarily receiving introductions.
+
+Each script includes specific instructions for running the analyses and generating publication-ready figures that represent the study's findings.
+
 
 Each script includes specific instructions and is designed to be modular, allowing users to adjust for various data types or research questions.
 
