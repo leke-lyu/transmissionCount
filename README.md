@@ -25,6 +25,8 @@ To get started:
 
 ### Subsampling
 
+Significant heterogeneity in sampling ratios was observed across various metropolitan areas in Texas from Epi-Week 14 to Epi-Week 43. To improve the accuracy of our phylogeographic analysis, we applied a proportional sampling scheme. A consistent sampling ratio of 0.006 served as our baseline. In under-sampled regions (where the sampling ratio was below the baseline), we retained all available genomes. Conversely, in over-sampled regions (where the sampling ratio exceeded the baseline), we down-sampled to match the baseline rate.
+
 Following the approach of [Anderson F.Brito](https://github.com/andersonbrito/subsampler), we developed R scripts, later consolidated into an R package - [**Subsamplerr**](https://github.com/leke-lyu/subsamplerr). This package processes **case count tables** and genome metadata, enabling visual exploration of sampling heterogeneity and the implementation of proportional sampling schemes.
 
 ### Phylogeographic Analysis
