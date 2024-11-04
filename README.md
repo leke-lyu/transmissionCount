@@ -38,7 +38,7 @@ We applied the Nextstrain pipeline to generate a time-labeled phylogeny with inf
 
 ### Transmission Count
 
-In this study, we introduce two key metrics: the **Source Sink Score** and the **Local Import Score**. The Source Sink Score helps identify whether a localized outbreak is a source (contributing cases to other regions) or a sink (primarily receiving cases from other regions). The Local Import Score indicates whether an outbreak has transitioned to sustained local transmission or if it is driven by ongoing external introductions. Together, these metrics offer insights to guide targeted public health interventions for affected areas.
+In this study, we introduce two key metrics: the **Source Sink Score** and the **Local Import Score**. The Source Sink Score helps identify whether a localized outbreak is a source (contributing cases to other regions) or a sink (primarily receiving cases from other regions). The Local Import Score assesses whether the outbreak has transitioned to local transmission rather than being maintained by continued introductions. Together, these metrics offer insights to guide targeted public health interventions for affected areas.
 
 To replicate the results from this research:
 
