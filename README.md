@@ -54,7 +54,7 @@ For any questions, issues, or feedback, please reach out via [lekelyu@uga.edu].
 If you use this workflow, please cite the following papers:
 - **Transmission Count**: [https://doi.org/10.1101/2023.12.28.23300535]
 - **Nextstrain**: [https://doi.org/10.1093/bioinformatics/bty407]
-- **Proportional Sampling**: [10.1016/j.cell.2021.03.061]
+- **Proportional Sampling**: [https://doi.org/10.1016/j.cell.2021.03.061]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
