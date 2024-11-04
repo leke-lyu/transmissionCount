@@ -48,7 +48,7 @@ Each script includes specific instructions and is designed to be modular, allowi
 
 ## Contact and Citation
 
-For any questions, issues, or feedback, please reach out via [Your Contact Information].
+For any questions, issues, or feedback, please reach out via [lekelyu@uga.edu].
 
 If you use this workflow, please cite our paper as follows:
 - **Citation**: [https://doi.org/10.1101/2023.12.28.23300535]
