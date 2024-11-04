@@ -1,0 +1,255 @@
+County name	Population 2020	Metro area	Rural-Urban Continuum Code
+Dallas	2613539	Dallas-Fort Worth	RUCC 1
+Tarrant	2110640	Dallas-Fort Worth	RUCC 1
+Collin	1064465	Dallas-Fort Worth	RUCC 1
+Denton	906422	Dallas-Fort Worth	RUCC 1
+Ellis	192455	Dallas-Fort Worth	RUCC 1
+Johnson	179927	Dallas-Fort Worth	RUCC 1
+Parker	148222	Dallas-Fort Worth	RUCC 1
+Kaufman	145310	Dallas-Fort Worth	RUCC 1
+Rockwall	107819	Dallas-Fort Worth	RUCC 1
+Hunt	99956	Dallas-Fort Worth	RUCC 1
+Wise	68632	Dallas-Fort Worth	RUCC 1
+Hood	61598	Dallas-Fort Worth	RUCC 1
+Somervell	9205	Dallas-Fort Worth	RUCC 1
+Harris	4731145	Houston	RUCC 1
+Fort Bend	822779	Houston	RUCC 1
+Montgomery	620443	Houston	RUCC 1
+Brazoria	372031	Houston	RUCC 1
+Galveston	350682	Houston	RUCC 1
+Liberty	91628	Houston	RUCC 1
+Waller	56794	Houston	RUCC 1
+Chambers	46571	Houston	RUCC 1
+Austin	30167	Houston	RUCC 1
+Bexar	2009324	San Antonio	RUCC 1
+Guadalupe	172706	San Antonio	RUCC 1
+Comal	161501	San Antonio	RUCC 1
+Medina	50748	San Antonio	RUCC 1
+Wilson	49753	San Antonio	RUCC 1
+Atascosa	48981	San Antonio	RUCC 1
+Kendall	44279	San Antonio	RUCC 1
+Bandera	20851	San Antonio	RUCC 1
+Travis	1290188	Austin	RUCC 1
+Williamson	609017	Austin	RUCC 1
+Hays	241067	Austin	RUCC 1
+Bastrop	97216	Austin	RUCC 1
+Caldwell	45883	Austin	RUCC 1
+Hidalgo	870781	McAllen	RUCC 2
+El Paso	865657	El Paso	RUCC 2
+Hudspeth	3202	El Paso	RUCC 2
+Bell	370647	Killeen	RUCC 2
+Coryell	83093	Killeen	RUCC 2
+Lampasas	21627	Killeen	RUCC 2
+Nueces	353178	Corpus Christi	RUCC 2
+San Patricio	68755	Corpus Christi	RUCC 2
+Aransas	23830	Corpus Christi	RUCC 2
+Cameron	421017	Brownsville	RUCC 2
+Jefferson	256526	Beaumont-Port Arthur	RUCC 2
+Orange	84808	Beaumont-Port Arthur	RUCC 2
+Hardin	56231	Beaumont-Port Arthur	RUCC 2
+Newton	12217	Beaumont-Port Arthur	RUCC 2
+Lubbock	310639	Lubbock	RUCC 2
+Lynn	5596	Lubbock	RUCC 2
+Crosby	5133	Lubbock	RUCC 2
+McLennan	260579	Waco	RUCC 2
+Falls	16968	Waco	RUCC 2
+Randall	140753	Amarillo	RUCC 2
+Potter	118525	Amarillo	RUCC 2
+Carson	5807	Amarillo	RUCC 2
+Armstrong	1848	Amarillo	RUCC 2
+Oldham	1758	Amarillo	RUCC 2
+Brazos	233849	Bryan-College Station	RUCC 2
+Burleson	17642	Bryan-College Station	RUCC 2
+Robertson	16757	Bryan-College Station	RUCC 2
+Webb	267114	Laredo	RUCC 2
+Smith	233479	Tyler	RUCC 3
+Gregg	124239	Longview	RUCC 3
+Rusk	52214	Longview	RUCC 3
+Upshur	40892	Longview	RUCC 3
+Taylor	143208	Abilene	RUCC 3
+Jones	19663	Abilene	RUCC 3
+Callahan	13708	Abilene	RUCC 3
+Midland	169983	Midland	RUCC 3
+Martin	5237	Midland	RUCC 3
+Ector	165171	Odessa	RUCC 3
+Wichita	129350	Wichita Falls	RUCC 3
+Clay	10218	Wichita Falls	RUCC 3
+Archer	8560	Wichita Falls	RUCC 3
+Grayson	135543	Sherman	RUCC 3
+Tom Green	120003	San Angelo	RUCC 3
+Irion	1513	San Angelo	RUCC 3
+Victoria	91319	Victoria	RUCC 3
+Goliad	7012	Victoria	RUCC 3
+Bowie	92893	Texarkana	RUCC 3
+Angelina	86395	rural	rural
+Henderson	82150	rural	rural
+Walker	76400	rural	rural
+Harrison	68839	rural	rural
+Starr	65920	rural	rural
+Nacogdoches	64653	rural	rural
+Van Zandt	59541	rural	rural
+Anderson	57922	rural	rural
+Maverick	57887	rural	rural
+Navarro	52624	rural	rural
+Kerr	52598	rural	rural
+Cherokee	50412	rural	rural
+Polk	50123	rural	rural
+Lamar	50088	rural	rural
+Burnet	49130	rural	rural
+Val Verde	47586	rural	rural
+Wood	44843	rural	rural
+Erath	42545	rural	rural
+Cooke	41668	rural	rural
+Wharton	41570	rural	rural
+Jim Wells	38891	rural	rural
+Brown	38095	rural	rural
+Hopkins	36787	rural	rural
+Matagorda	36255	rural	rural
+Hill	35874	rural	rural
+Washington	35805	rural	rural
+Fannin	35662	rural	rural
+Howard	34860	rural	rural
+Jasper	32980	rural	rural
+Hale	32522	rural	rural
+Titus	31247	rural	rural
+Bee	31047	rural	rural
+Kleberg	31040	rural	rural
+Grimes	29268	rural	rural
+Cass	28454	rural	rural
+Palo Pinto	28409	rural	rural
+San Jacinto	27402	rural	rural
+Gillespie	26725	rural	rural
+Milam	24754	rural	rural
+Uvalde	24564	rural	rural
+Fayette	24435	rural	rural
+Shelby	24022	rural	rural
+Panola	22491	rural	rural
+Limestone	22146	rural	rural
+Houston	22066	rural	rural
+Gaines	21598	rural	rural
+Hockley	21537	rural	rural
+Moore	21358	rural	rural
+Llano	21243	rural	rural
+Gray	21227	rural	rural
+Hutchinson	20617	rural	rural
+Colorado	20557	rural	rural
+Lavaca	20337	rural	rural
+Willacy	20164	rural	rural
+Calhoun	20106	rural	rural
+Montague	19965	rural	rural
+DeWitt	19824	rural	rural
+Tyler	19798	rural	rural
+Gonzales	19653	rural	rural
+Freestone	19435	rural	rural
+Andrews	18610	rural	rural
+Deaf Smith	18583	rural	rural
+Frio	18385	rural	rural
+Bosque	18235	rural	rural
+Young	17867	rural	rural
+Eastland	17725	rural	rural
+Lee	17478	rural	rural
+Scurry	16932	rural	rural
+Leon	15719	rural	rural
+Pecos	15193	rural	rural
+Jackson	14988	rural	rural
+Reeves	14748	rural	rural
+Nolan	14738	rural	rural
+Karnes	14710	rural	rural
+Zapata	13889	rural	rural
+Trinity	13602	rural	rural
+Comanche	13594	rural	rural
+Madison	13455	rural	rural
+Lamb	13045	rural	rural
+Wilbarger	12887	rural	rural
+Camp	12464	rural	rural
+Dawson	12456	rural	rural
+Rains	12164	rural	rural
+Morris	11973	rural	rural
+Terry	11831	rural	rural
+Ward	11644	rural	rural
+Red River	11587	rural	rural
+Blanco	11374	rural	rural
+Live Oak	11335	rural	rural
+Franklin	10359	rural	rural
+Ochiltree	10015	rural	rural
+Runnels	9900	rural	rural
+Sabine	9894	rural	rural
+Parmer	9869	rural	rural
+Duval	9831	rural	rural
+Marion	9725	rural	rural
+Zavala	9670	rural	rural
+Brewster	9546	rural	rural
+Stephens	9101	rural	rural
+Mitchell	8990	rural	rural
+Dimmit	8615	rural	rural
+Jack	8472	rural	rural
+Hamilton	8222	rural	rural
+San Augustine	7918	rural	rural
+Winkler	7791	rural	rural
+Yoakum	7694	rural	rural
+Coleman	7684	rural	rural
+McCulloch	7630	rural	rural
+Castro	7371	rural	rural
+Dallam	7115	rural	rural
+Brooks	7076	rural	rural
+Swisher	6971	rural	rural
+Bailey	6904	rural	rural
+Refugio	6741	rural	rural
+Childress	6664	rural	rural
+La Salle	6664	rural	rural
+Presidio	6131	rural	rural
+Garza	5816	rural	rural
+San Saba	5730	rural	rural
+Haskell	5416	rural	rural
+Floyd	5402	rural	rural
+Hartley	5382	rural	rural
+Hansford	5285	rural	rural
+Delta	5230	rural	rural
+Wheeler	4990	rural	rural
+Jim Hogg	4838	rural	rural
+Crane	4675	rural	rural
+Mills	4456	rural	rural
+Kimble	4286	rural	rural
+Mason	3953	rural	rural
+Fisher	3672	rural	rural
+Hardeman	3549	rural	rural
+Baylor	3465	rural	rural
+Reagan	3385	rural	rural
+Hemphill	3382	rural	rural
+Sutton	3372	rural	rural
+Knox	3353	rural	rural
+Upton	3308	rural	rural
+Concho	3303	rural	rural
+Coke	3285	rural	rural
+Donley	3258	rural	rural
+Kinney	3129	rural	rural
+Shackelford	3105	rural	rural
+Crockett	3098	rural	rural
+Lipscomb	3059	rural	rural
+Hall	2825	rural	rural
+Sherman	2782	rural	rural
+Real	2758	rural	rural
+Collingsworth	2652	rural	rural
+Cochran	2547	rural	rural
+Schleicher	2451	rural	rural
+Culberson	2188	rural	rural
+Jeff Davis	1996	rural	rural
+Menard	1962	rural	rural
+Dickens	1770	rural	rural
+Throckmorton	1440	rural	rural
+Briscoe	1435	rural	rural
+Edwards	1422	rural	rural
+Cottle	1380	rural	rural
+Sterling	1372	rural	rural
+Stonewall	1245	rural	rural
+Glasscock	1116	rural	rural
+Foard	1095	rural	rural
+Motley	1063	rural	rural
+Roberts	827	rural	rural
+Terrell	760	rural	rural
+Kent	753	rural	rural
+Borden	631	rural	rural
+McMullen	600	rural	rural
+Kenedy	350	rural	rural
+King	265	rural	rural
+Loving	64	rural	rural
