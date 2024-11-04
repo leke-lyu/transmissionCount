@@ -38,12 +38,18 @@ We applied the Nextstrain pipeline to generate a time-labeled phylogeny with inf
 
 ### Transmission Count
 
-The transmission count metric is calculated to identify viral sources and sinks across subregions. This analysis summarizes transmission patterns within the study area, allowing for the comparison of local transmission intensity. The metric aids in distinguishing regions that are likely contributing to viral spread versus those primarily receiving introductions.
+In this study, we introduce two key metrics: the **Source Sink Score** and the **Local Import Score**. The Source Sink Score helps identify whether a localized outbreak is a source (contributing cases to other regions) or a sink (primarily receiving cases from other regions). The Local Import Score indicates whether an outbreak has transitioned to sustained local transmission or if it is driven by ongoing external introductions. Together, these metrics offer insights to guide targeted public health interventions for affected areas.
 
-Each script includes specific instructions for running the analyses and generating publication-ready figures that represent the study's findings.
+To replicate the results from this research:
 
-
-Each script includes specific instructions and is designed to be modular, allowing users to adjust for various data types or research questions.
+```bash
+git clone git@github.com:leke-lyu/subsamplerr.git
+cd transmissionCount
+sh 00_epidemicInTexas.sh
+sh 01_transmissionHeterogeneity.sh
+sh 02_urbanvsrural.sh
+sh 03_sensitivityAnalysis.sh
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
