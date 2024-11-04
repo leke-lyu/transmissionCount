@@ -50,8 +50,8 @@ Each script includes specific instructions and is designed to be modular, allowi
 
 For any questions, issues, or feedback, please reach out via [Your Contact Information].
 
-If you use this code, please cite our paper as follows:
-- **Citation**: [Your Paper Title, Authors, Journal/Publisher, DOI if available]
+If you use this workflow, please cite our paper as follows:
+- **Citation**: [https://doi.org/10.1101/2023.12.28.23300535]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
