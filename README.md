@@ -34,7 +34,7 @@ Following the approach of [Anderson F.Brito](https://github.com/andersonbrito/su
 
 We conducted a comprehensive phylogeographic analysis of 12,048 SARS-CoV-2 Delta genomes sampled from March 27, 2021, to October 24, 2021, to investigate the timing of virus introduction into Texas and the dynamics of the resulting local transmission lineages. These genomes were selected to ensure a roughly 1:1 ratio between Texas sequences and globally contextual sequences.
 
-We applied the Nextstrain pipeline to generate a time-labeled phylogeny with inferred ancestral trait states. You can view the texas instance in [here](https://nextstrain.org/community/leke-lyu/deltaoutbreak/texas). You can find the config files that runs this build in [here.](https://github.com/leke-lyu/deltaInGreaterHoustonArea)
+We applied the Nextstrain pipeline to generate a time-labeled phylogeny with inferred ancestral trait states. You can view the texas instance in [here](https://github.com/leke-lyu/deltaoutbreak). You can find the config files that runs this build in [here.](https://github.com/leke-lyu/surveillanceInTexas)
 
 ### Transmission Count
 
