@@ -13,10 +13,10 @@ In this study, we developed a pipeline to understand local-scale epidemic trends
 
 ## Data
 
-The data used in this study is partially available in this repository, with some components accessible upon request due to [any applicable restrictions]. For reproducibility, ensure the data is in the expected format as outlined in `data/README.md`.
-
-To get started:
-1. Place all required data files in the `data` directory.
+The GISAID accession IDs of the genomes used in this study are provided:
+`data/texasDelta.csv`:
+`worldwideDelta.csv`:
+1. Place all required data files in the `data/texasDelta.csv` directory.
 2. Follow the file naming conventions and format requirements for seamless integration with the scripts.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
