@@ -13,11 +13,12 @@ In this study, we developed a pipeline to understand local-scale epidemic trends
 
 ## Data
 
-The GISAID accession IDs of the genomes used in this study are provided:
-`data/texasDelta.csv`:
-`worldwideDelta.csv`:
-1. Place all required data files in the `data/texasDelta.csv` directory.
-2. Follow the file naming conventions and format requirements for seamless integration with the scripts.
+The GISAID accession IDs of the genomes used in this study are provided.
+
+`data/texasDelta.csv`: 24,593 SARS-CoV-2 genomes (Delta variant) sampled in Texas
+
+`data/worldwideDelta.csv`: 6,386 Delta genomes from 49 countries 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
