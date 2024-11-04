@@ -29,7 +29,7 @@ Following the approach of [Anderson F.Brito](https://github.com/andersonbrito/su
 
 ### Phylogeographic Analysis
 
-Our pipeline integrates with the Nextstrain framework to conduct phylogeographic analysis. This step involves reconstructing phylogenetic trees and mapping the geographic spread of lineages over time. We also include options for visualizing lineage migration patterns, highlighting the movement of viral strains between urban and rural areas.
+We applied the Nextstrain pipeline to generate a time-labeled phylogeny with inferred ancestral trait states.
 
 ### Transmission Count
 
