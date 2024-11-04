@@ -1,0 +1,1 @@
+Rscript scripts/transmissionHeterogeneity.R
